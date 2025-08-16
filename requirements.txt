@@ -1,0 +1,9 @@
+requests
+schedule
+pytz
+python-dotenv
+Pillow
+Flask
+waitress
+redis
+hiredis
